@@ -5,14 +5,17 @@ En este repositorio encuentra las técnicas de ciencia de datos modernas escrita
 # Contenido
 
 ## Programación
-*  Introducción
-* Variables y tipos de datos
-* Operadores aritméticos y lógicos
-* Estructuras de control
-* Funciones
-* Iterables
-* Tuplas, listas, diccionarios, conjuntos
-* Numpy
+*  Introducción [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py0.ipynb)
+* Variables y tipos de datos [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py1.ipynb)
+* Operadores aritméticos y lógicos [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py2.ipynb)
+* Estructuras de control [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py3.ipynb)
+* Funciones [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py4.ipynb)
+* Iterables [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py5.ipynb)
+* Tuplas [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py6.ipynb)
+* Listas [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py7.ipynb)
+* Diccionarios [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py8.ipynb)
+* Conjuntos [Github](https://github.com/AprendizajeProfundo/Libro_Fundamentos_Programacion/blob/main/Python/Cuadernos/py9.ipynb)
+* Numpy 
 * Pandas
 * Matplotlib
 * Scipy
